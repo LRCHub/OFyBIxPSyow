@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ハネウマライダー",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2025-12-11T10:48:17.025752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハネウマライダー",
+      "artist": "Porno Graffitti",
+      "has_synced": false,
+      "path": "select/01_ハネウマライダー_Porno_Graffitti.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハネウマライダー",
+      "artist": "PornoGraffitti",
+      "has_synced": false,
+      "path": "select/02_ハネウマライダー_PornoGraffitti.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/03_ハネウマライダー_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハネウマライダー",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/04_ハネウマライダー_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_06_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー ～幕張Ver.～ Studio Session",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_07_ハネウマライダー_~幕張Ver.~_Studio_Session_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_08_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_09_ハネウマライダー_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ハネウマライダー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_10_ハネウマライダー_ポルノグラフィティ.txt"
+    }
+  ]
+}
